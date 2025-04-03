@@ -1,5 +1,5 @@
 // UserAgeCategory
-let age = prompt("Enter your age:");
+let age = prompt("Enter your age:");//the user will gonna input the user there age
 age = parseInt(age); // Convert input to a number
 
 if (age < 5) {
